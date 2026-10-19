@@ -465,10 +465,10 @@ import akmal from "./photo_6246590875165202638_y.jpg";
 
 const SITE = {
   name: "Akmal Shekh",
-  whatsappNumber: "6307418679", // 91 + number, bina + aur space ke
+  whatsappNumber: "916307418679", // 91 + number, bina + aur space ke
   email: "mohdakmalshekh@gmail.com",
   phoneDisplay: "6307418679",
-  phoneLink: "6307418679",
+  phoneLink: "+916307418679",
 };
 
 // Apne asli profile links yahan daalo
